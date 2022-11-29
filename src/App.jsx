@@ -22,7 +22,7 @@ function App() {
         </h2>
       </div>
 
-      <a id="source-link" className="meta-link" href="https://hafsolutions.com" target="_blank">
+      <a id="source-link" className="meta-link" href="https://haf.solutions" target="_blank">
         <i className="fa-solid fa-link"></i>
         <span className="roboto-mono">Contact Us</span>
       </a>
